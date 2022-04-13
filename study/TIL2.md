@@ -26,6 +26,7 @@ ex)
 
 FIFO (First In First Out) 라고도 함
 큐의 삽입연산은 enQueue, 삭제연산은 deQueue
+
 ex)
 프린터 인쇄 대기열
 은행업무 대기표
