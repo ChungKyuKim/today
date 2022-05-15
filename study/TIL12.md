@@ -17,7 +17,7 @@ console.log(c); //undefined
 
 ## null
 
-null은 사용자가 비어있음을 명시적으로 나타낼 수 있다.
+null은 사용자가 비어있음을 명시적으로 나타낼 수 있다..
 
 정리
 
